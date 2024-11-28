@@ -1,10 +1,10 @@
-# Shopsy (Ecommerce-website)
+# Shopsy (Ecommerce-Application)
 ## live deployed link :- https://ecommerce-website-gnfw.vercel.app/
 
 ### video demo
 https://user-images.githubusercontent.com/88173597/210105826-8a2b3cfb-ae01-423d-8c78-8b985ab46d6d.mp4
 
-Shopsy is a fully functional e-commerce website. It contains numerous functionality from payment gateway to admin dashboard. People can view product, buy them , track their orders and a lot more.
+Shopsy is a fully functional e-commerce application. It contains numerous functionality from payment gateway to admin dashboard. People can view product, buy them , track their orders and a lot more.
 
 Shopsy allows users to:
 - View Products
